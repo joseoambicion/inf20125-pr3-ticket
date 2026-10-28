@@ -1,0 +1,3 @@
+code/libros
+tests/*.out
+tests/*.err
